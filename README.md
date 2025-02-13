@@ -1,4 +1,4 @@
-EEP 136 Project 1 Deliverable
+EEP 153 Project 1 Deliverable
 Group John Graunt
 
 Introduction: We are Team Graunt, with members:
